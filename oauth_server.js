@@ -1,8 +1,8 @@
 var Fiber = Npm.require('fibers');
 var url = Npm.require('url');
 var logging = function(message){
-    ìf(DEBUGX)
-        DEBUGX.info('OAUTH', message);
+    //ìf(DEBUGX)
+        //DEBUGX.info('OAUTH', message);
 };
 //https://github.com/meteor/meteor/blob/devel/packages/oauth/oauth_server.js
 var isSafe = function (value) {
