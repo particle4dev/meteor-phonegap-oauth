@@ -1,5 +1,5 @@
 {
-  "name": "phonegap-oauth",
+  "name": "meteor-phonegap-oauth",
   "description": "OAuth for Meteor & PhoneGap ",
   "homepage": "https://github.com/particle4dev/meteor-phonegap-oauth",
   "author": "Le Hoang <particle4dev@gmail.com>",
