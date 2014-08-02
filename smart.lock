@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "meteor-phonegap-oauth": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "meteor-phonegap-oauth": {
+        "path": "."
+      }
+    }
+  }
+}
